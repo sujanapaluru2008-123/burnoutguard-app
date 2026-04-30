@@ -26,6 +26,9 @@ git commit -m "Enhanced dashboard visualization and UI clarity"
 git add .
 git commit -m "Optimized data processing and model performance"
 
+git add .
+git commit -m "Refactored code structure and improved readability"
+
 st.sidebar.title("Navigation")
 
 page = st.sidebar.radio("Go to", [
