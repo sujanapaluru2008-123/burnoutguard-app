@@ -3,8 +3,7 @@
 ## 🚩 Problem Statement
 Modern productivity tools track output but fail to detect **early burnout signals**.  
 Burnout builds silently through behavioral drift (reduced efficiency, irregular work, stress imbalance).
-
----
+Detect early burnout signals from productivity patterns.
 
 ## 💡 Solution
 BurnoutGuard is an **AI-powered system** that:
@@ -12,6 +11,7 @@ BurnoutGuard is an **AI-powered system** that:
 - Detects deviations from baseline behavior
 - Predicts burnout risk using machine learning
 - Provides actionable insights to improve performance
+- AI-based system that tracks user activity and predicts burnout risk using ML.
 
 ---
 
