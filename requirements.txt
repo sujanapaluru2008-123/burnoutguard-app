@@ -2,3 +2,4 @@ streamlit
 pandas
 numpy
 scikit-learn
+ml(random forest and linear regression)
