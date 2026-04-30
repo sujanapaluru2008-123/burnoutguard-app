@@ -19,6 +19,13 @@ git commit -m "Added insights and recommendation system"
 git add .
 git commit -m "Final bug fixes and cleanup"
 
+git add .
+git commit -m "Enhanced dashboard visualization and UI clarity"
+
+# optimization improvements
+git add .
+git commit -m "Optimized data processing and model performance"
+
 st.sidebar.title("Navigation")
 
 page = st.sidebar.radio("Go to", [
