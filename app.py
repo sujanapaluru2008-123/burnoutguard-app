@@ -3,6 +3,21 @@ import pandas as pd
 import numpy as np
 import os
 from sklearn.ensemble import RandomForestRegressor
+# UI improvements
+git add .
+git commit -m "Improved UI layout and structure"
+    # Burnout logic added
+    git add .
+git commit -m "Added burnout score calculation logic"
+
+git add .
+git commit -m "Integrated ML model for prediction"
+
+git add .
+git commit -m "Added insights and recommendation system"
+
+git add .
+git commit -m "Final bug fixes and cleanup"
 
 st.sidebar.title("Navigation")
 
