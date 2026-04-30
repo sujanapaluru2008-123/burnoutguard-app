@@ -29,6 +29,11 @@ git commit -m "Optimized data processing and model performance"
 git add .
 git commit -m "Refactored code structure and improved readability"
 
+git add .
+git commit -m "Final submission ready with all features integrated"
+
+git push
+
 st.sidebar.title("Navigation")
 
 page = st.sidebar.radio("Go to", [
