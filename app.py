@@ -3,36 +3,9 @@ import pandas as pd
 import numpy as np
 import os
 from sklearn.ensemble import RandomForestRegressor
-# UI improvements
-git add .
-git commit -m "Improved UI layout and structure"
-    # Burnout logic added
-    git add .
-git commit -m "Added burnout score calculation logic"
 
-git add .
-git commit -m "Integrated ML model for prediction"
 
-git add .
-git commit -m "Added insights and recommendation system"
-
-git add .
-git commit -m "Final bug fixes and cleanup"
-
-git add .
-git commit -m "Enhanced dashboard visualization and UI clarity"
-
-# optimization improvements
-git add .
-git commit -m "Optimized data processing and model performance"
-
-git add .
-git commit -m "Refactored code structure and improved readability"
-
-git add .
-git commit -m "Final submission ready with all features integrated"
-
-git push
+st.set_page_config(page_title="AI Burnout Analyzer Pro", layout="wide")
 
 st.sidebar.title("Navigation")
 
@@ -44,8 +17,6 @@ page = st.sidebar.radio("Go to", [
     "Settings"
 
 ])
-
-st.set_page_config(page_title="AI Burnout Analyzer Pro", layout="wide")
 
 st.title("🧠 AI Productivity Drift & Burnout Intelligence System")
 
